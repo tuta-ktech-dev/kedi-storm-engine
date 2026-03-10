@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'NanumSquareNeoExtraBold';
+  src: url(./fonts/NanumSquareNeoTTF-dEb.woff) format("woff"), url(./fonts/NanumSquareNeo-dEb.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'NanumSquareNeoHeavy';
+  src: url(./fonts/NanumSquareNeoTTF-eHv.woff) format("woff"), url(./fonts/NanumSquareNeo-eHv.ttf) format("truetype");
+}
+
+@font-face { 
+  font-family: 'Paperlogy7Bold'; 
+  src: local("Paperlogy-7Bold")
+    ,url('./fonts/Paperlogy-7Bold.ttf') format('truetype')
+    ,url('./fonts/Paperlogy-7Bold.woff') format('woff')  
+    ,url('./fonts/Paperlogy-7Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'GmarketSansBold';
+  src: url('./fonts/GmarketSansBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'NotoSans-Black';
+  src: url('./fonts/NotoSans-Black.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'NotoSans-Bold';
+  src: url('./fonts/NotoSans-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'NotoSans-Medium';
+  src: url('./fonts/NotoSans-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
